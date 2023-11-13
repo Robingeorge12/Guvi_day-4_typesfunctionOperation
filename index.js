@@ -12,7 +12,7 @@ function odd(ar){
     console.log(ar)
     for(let i=0;i<ar.length;i++){
         if(ar[i]%2!==0){
-            // console.log(ar[i]) ans
+            console.log(ar[i]) 
         }
     }
 
@@ -38,7 +38,7 @@ return str.toUpperCase()
     return res
 
 }
-// console.log(title (str))
+console.log(title (str))
 
 
 
@@ -54,7 +54,7 @@ function sum(ar){
 
     return total
 }
-// console.log(sum(ar2))
+console.log(sum(ar2))
 
 
 
@@ -206,7 +206,7 @@ for(let i=0;i<d.length;i++){
 let rot = [1,2,3,4]
 let fr = 3
 
-// console.log(rotate(rot,fr))
+console.log(rotate(rot,fr))
 
 function rotate(rot,k){
 
@@ -233,7 +233,7 @@ let odd1 = (ar)=>{
   console.log(ar)
   for(let i=0;i<ar.length;i++){
       if(ar[i]%2!==0){
-          // console.log(ar[i]) 
+          console.log(ar[i]) 
       }
   }
 
@@ -256,7 +256,7 @@ return str.toUpperCase()
     return res
 
 }
-// console.log(title1 (str))
+console.log(title1 (str))
 
 // Sum of all numbers in an array
 
@@ -270,7 +270,7 @@ let sum1 = (ar)=>{
 
     return total
 }
-// console.log(sum1(ar2))
+console.log(sum1(ar2))
 
 // Return all the prime numbers in an array
 
